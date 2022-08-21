@@ -1,0 +1,2 @@
+# metaddos
+DDOS SCRIPT 
